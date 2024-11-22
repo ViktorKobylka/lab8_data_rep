@@ -111,3 +111,4 @@ The following exercises focus on utilizing MongoDB within a MERN stack.
      - `app.get('/api/movie/:id', ...)`: Defines a GET route at `/api/movie/:id`, where `:id` is a parameter for the movie’s unique ID.
      - `Movie.findById(req.params.id)`: This method searches the `movies` collection for a document with the ID provided in the URL.
      - If a movie is found, it’s sent back in JSON format.
+"# lab8_data_rep" 
